@@ -34,6 +34,8 @@ module MovableType
       validates_length_of   :author_remote_auth_username, :maximum => 50, :allow_nil => true
       validates_length_of   :author_remote_auth_token,    :maximum => 50, :allow_nil => true
       validates_length_of   :author_api_password,         :maximum => 50, :allow_nil => true
+      
+      # author_type: 1 = author, 2 = commenter
   
     end #class
   end #module

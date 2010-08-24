@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "movable_type_ar"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{An ActiveRecord interface to Movable Type databases.}
+    gem.description = %Q{An ActiveRecord interface to Movable Type databases.}
     gem.email = "fostgr@consumer.org"
     gem.homepage = "http://github.com/consumersunion/movable_type_ar"
     gem.authors = ["consumersunion"]
