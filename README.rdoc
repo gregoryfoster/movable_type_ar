@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 consumersunion. See LICENSE for details.
+Copyright (c) 2012 by Gregory Foster. See LICENSE for details.
